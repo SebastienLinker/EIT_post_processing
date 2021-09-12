@@ -8,9 +8,9 @@ This repo contains the source code to reproduce the results from those papers
 > Martin, S., Choi, C.T.M. A Post-Processing Method for Three-Dimensional Electrical Impedance Tomography. Sci Rep 7, 7212 (2017) 
 > *https://doi.org/10.1038/s41598-017-07727-2*
 
-> [**A novel post-processing scheme for two-dimensional electrical impedance tomography based on artificial neural networks*](ttps://doi.org/10.1371/journal.pone.0188993),
+> [**A novel post-processing scheme for two-dimensional electrical impedance tomography based on artificial neural networks**](https://doi.org/10.1371/journal.pone.0188993),
 > Martin, S., Choi, C.T.M. A novel post-processing scheme for two-dimensional electrical impedance tomography based on artificial neural networks. PLOS ONE 12(12): e0188993
-> *ttps://doi.org/10.1371/journal.pone.0188993*
+> *https://doi.org/10.1371/journal.pone.0188993*
 
 ## How to use
 
@@ -22,7 +22,7 @@ Install Netgen: https://ngsolve.org/downloads
 
 Add EIDORS and MatGeom into your Matlab path, add this repository into your Matlab path as well
 
-The `demo` directory contains some sample codes to reproduce the results. You can update the parameters at the beginning of the file
+The `demo` directory contains the entry points to reproduce the results. You can update the parameters at the beginning of the file
 
 ### 2D EIT
 
