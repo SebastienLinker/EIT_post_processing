@@ -1,0 +1,3 @@
+[submodule "matGeom"]
+	path = matGeom
+	url = https://github.com/mattools/matGeom.git

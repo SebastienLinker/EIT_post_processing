@@ -4,9 +4,13 @@ Electrical impedance tomography (EIT) with neural networks.
 
 This repo contains the source code to reproduce the results from those papers
 
-Martin, S., Choi, C.T.M. A Post-Processing Method for Three-Dimensional Electrical Impedance Tomography. Sci Rep 7, 7212 (2017). https://doi.org/10.1038/s41598-017-07727-2
+> [**A Post-Processing Method for Three-Dimensional Electrical Impedance Tomography**](https://doi.org/10.1038/s41598-017-07727-2),
+> Martin, S., Choi, C.T.M. A Post-Processing Method for Three-Dimensional Electrical Impedance Tomography. Sci Rep 7, 7212 (2017) 
+> *https://doi.org/10.1038/s41598-017-07727-2*
 
-Martin S, Choi CTM (2017) A novel post-processing scheme for two-dimensional electrical impedance tomography based on artificial neural networks. PLOS ONE 12(12): e0188993. https://doi.org/10.1371/journal.pone.0188993
+> [**A novel post-processing scheme for two-dimensional electrical impedance tomography based on artificial neural networks*](ttps://doi.org/10.1371/journal.pone.0188993),
+> Martin, S., Choi, C.T.M. A novel post-processing scheme for two-dimensional electrical impedance tomography based on artificial neural networks. PLOS ONE 12(12): e0188993
+> *ttps://doi.org/10.1371/journal.pone.0188993*
 
 ## How to use
 
@@ -23,6 +27,10 @@ The `demo` directory contains some sample codes to reproduce the results. You ca
 ### 2D EIT
 
 You can choose whether to add noise, distortion, the target type, them the script train the models, generate some additional random targets and displays the results
+
+### 3D EIT
+
+Similar to 2D EIT. Note that you may need a huge amount of memory to solve some large problems. Finite elements models with a smaller number of nodes have been designed for rapid testing, but those models won't give any good result due to coarsity of the models.
 
 ## Requirements
 
