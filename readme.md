@@ -12,6 +12,14 @@ This repo contains the source code to reproduce the results from those papers
 > Martin, S., Choi, C.T.M. A novel post-processing scheme for two-dimensional electrical impedance tomography based on artificial neural networks. PLOS ONE 12(12): e0188993
 > *https://doi.org/10.1371/journal.pone.0188993*
 
+> [**A Feasibility Study on Real-Time High Resolution Imaging of the Brain Using Electrical Impedance Tomography**](https://arxiv.org/abs/2202.13159),
+> Martin, S., A Feasibility Study on Real-Time High Resolution Imaging of the Brain Using Electrical Impedance Tomography, ArXiv 2202.13159
+> *https://arxiv.org/abs/2202.13159*
+
+> [**A Post-Processing Tool and Feasibility Study for Three-Dimensional Imaging with Electrical Impedance Tomography During Deep Brain Stimulation Surgery**](https://arxiv.org/abs/2204.05201),
+> Martin, S., A Post-Processing Tool and Feasibility Study for Three-Dimensional Imaging with Electrical Impedance Tomography During Deep Brain Stimulation Surgery, ArXiv 2204.05201
+> *https://arxiv.org/abs/2204.05201*
+
 ## How to use
 
 Download EIDORS from the original SVN repo: http://eidors3d.sourceforge.net/
